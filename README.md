@@ -4,7 +4,7 @@ on
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==============================================================
-by Themos Patrikios
+by Bibhuti Bhusan Praharaj
 ==============================================================
 
 The run_analysis.R script reads data from the "Human Activity Recognition Using Smartphones Dataset Version 1.0" and produces a new - tidy - dataset which may be used for further analysis.
